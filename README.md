@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rebeca and I'm a dev junior, from Brazil.</p>
+<p align="left">My name is Rebeca and I'm a dev junior, from Brazil. I’m currently learning programming through the social project Programadores do Amanhã – PDA. One of the highlights of my journey so far has been the Quilombo Virtual project, where I took on a leadership role — it was an amazing and enriching experience.</p>
 
 ###
 
